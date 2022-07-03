@@ -1,0 +1,16 @@
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.exe
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.deps.json
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.runtimeconfig.json
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.runtimeconfig.dev.json
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\bin\Debug\net5.0\Login_system.pdb
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.csproj.AssemblyReference.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.AssemblyInfoInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.AssemblyInfo.cs
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.csproj.CoreCompileInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\refint\Login_system.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.pdb
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\Login_system.genruntimeconfig.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Login_system\Login_system\obj\Debug\net5.0\ref\Login_system.dll
